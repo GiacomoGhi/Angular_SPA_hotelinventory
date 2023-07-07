@@ -1,5 +1,6 @@
 # Angular_SPA_hotelinventory
 This project is from FreeCodeCamp Angular tutorial. 
+https://youtu.be/3qBXWUpoPHo
 
 This repository is composed in 2 main directories.
 The hotelinventoryapi directory contains a mock api used to perform CRUD operations.
